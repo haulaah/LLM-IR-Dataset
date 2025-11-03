@@ -2,6 +2,17 @@
 
 This repository contains a dataset of Incident Response Process Activities and Communication data Log dataset. The dataset was produced by augmenting an existing IR Process Log dataset using synthetic LLM generated data.
 
+## Paper Publication
+
+If you use this dataset, please cite our paper:
+
+H. S. Galadima, C. Doherty, and R. Brennan,
+"Towards LLM-based Synthetic Dataset Generation of Cyber Incident Response Process Logs,"
+2024 Cyber Research Conference - Ireland (Cyber-RCI), Carlow, Ireland, 2024, pp. 1-4.
+DOI: 10.1109/Cyber-RCI60769.2024.10939563
+
+https://ieeexplore.ieee.org/document/10939563
+
 ## Dataset Description
 
 The dataset includes detailed records of different unique Incident Response cases, corresponding actions, processes, and communication data.
@@ -53,6 +64,4 @@ The dataset includes detailed records of different unique Incident Response case
 -**closed_at**: incident user close date and time (dependent variable);<br>
 
 
-## Paper Publication IEEE
 
-https://ieeexplore.ieee.org/document/10939563
